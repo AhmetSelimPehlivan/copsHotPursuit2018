@@ -1,8 +1,8 @@
 Ahmet Selim Pehlivan
-Süleyman Þamil Ceran
-Abdüssamet Türker
-Asel ÖZTÜRK
+SÃ¼leyman Samil Ceran
+AbdÃ¼ssamet TÃ¼rker
+Asel Ã–ZTÃœRK
 
 Hyper Casual Game example
-COPSHOTPURSUÝT was created by TOOBYTEGAMES.
+COPSHOTPURSUIT was created by TOOBYTEGAMES.
 Used C# language, Unity Game Engine.
